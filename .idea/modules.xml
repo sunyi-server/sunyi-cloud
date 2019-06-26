@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sunyi-cloud.iml" filepath="$PROJECT_DIR$/.idea/sunyi-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-dependencies/sunyi-cloud-dependencies.iml" filepath="$PROJECT_DIR$/sunyi-cloud-dependencies/sunyi-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-eureka-client/sunyi-cloud-eureka-client.iml" filepath="$PROJECT_DIR$/sunyi-cloud-eureka-client/sunyi-cloud-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-eureka-server/sunyi-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/sunyi-cloud-eureka-server/sunyi-cloud-eureka-server.iml" />
     </modules>
   </component>

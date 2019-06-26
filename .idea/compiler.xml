@@ -7,17 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sunyi-cloud-dependencies" />
+        <module name="sunyi-cloud-eureka-client" />
         <module name="sunyi-cloud-eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sunyi-cloud-dependencies" target="1.8" />
+      <module name="sunyi-cloud-eureka-client" target="1.8" />
       <module name="sunyi-cloud-eureka-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="sunyi-cloud-dependencies" options="-parameters" />
+      <module name="sunyi-cloud-eureka-client" options="-parameters" />
       <module name="sunyi-cloud-eureka-server" options="-parameters" />
     </option>
   </component>

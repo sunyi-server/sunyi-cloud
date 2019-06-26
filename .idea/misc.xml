@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/sunyi-cloud-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/sunyi-cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sunyi-cloud-eureka-client/pom.xml" />
       </list>
     </option>
   </component>

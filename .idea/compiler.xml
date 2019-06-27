@@ -7,14 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sunyi-cloud-dependencies" />
+        <module name="sunyi-cloud-ribbon" />
         <module name="sunyi-cloud-eureka-client" />
         <module name="sunyi-cloud-eureka-server" />
+        <module name="sunyi-cloud-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sunyi-cloud-dependencies" target="1.8" />
       <module name="sunyi-cloud-eureka-client" target="1.8" />
       <module name="sunyi-cloud-eureka-server" target="1.8" />
+      <module name="sunyi-cloud-feign" target="1.8" />
+      <module name="sunyi-cloud-fiegn" target="1.8" />
+      <module name="sunyi-cloud-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +27,9 @@
       <module name="sunyi-cloud-dependencies" options="-parameters" />
       <module name="sunyi-cloud-eureka-client" options="-parameters" />
       <module name="sunyi-cloud-eureka-server" options="-parameters" />
+      <module name="sunyi-cloud-feign" options="-parameters" />
+      <module name="sunyi-cloud-fiegn" options="-parameters" />
+      <module name="sunyi-cloud-ribbon" options="-parameters" />
     </option>
   </component>
 </project>

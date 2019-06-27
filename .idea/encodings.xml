@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/sunyi-cloud-dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sunyi-cloud-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sunyi-cloud-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyi-cloud-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sunyi-cloud-ribbon" charset="UTF-8" />
   </component>
 </project>

@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: sunyi-cloud-zuul
+server:
+  port: 8769
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+#配置网关映射
+#path为接口名
+#serviceId为服务名
+#zuul会进行负载均衡
+zuul:
+  routes:
+    api-robbin:
+      path: /api/robbin/**
+      serviceId: sunyi-cloud-robbin
+    api-feign:
+      path: /api/feign/**
+      serviceId: sunyi-cloud-feign

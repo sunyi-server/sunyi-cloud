@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-eureka-server/sunyi-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/sunyi-cloud-eureka-server/sunyi-cloud-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-feign/sunyi-cloud-feign.iml" filepath="$PROJECT_DIR$/sunyi-cloud-feign/sunyi-cloud-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-ribbon/sunyi-cloud-ribbon.iml" filepath="$PROJECT_DIR$/sunyi-cloud-ribbon/sunyi-cloud-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunyi-cloud-zuul/sunyi-cloud-zuul.iml" filepath="$PROJECT_DIR$/sunyi-cloud-zuul/sunyi-cloud-zuul.iml" />
     </modules>
   </component>
 </project>

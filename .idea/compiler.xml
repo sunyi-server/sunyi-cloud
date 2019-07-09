@@ -11,6 +11,7 @@
         <module name="sunyi-cloud-dependencies" />
         <module name="sunyi-cloud-eureka-client" />
         <module name="sunyi-cloud-ribbon" />
+        <module name="sunyi-cloud-user" />
         <module name="sunyi-cloud-zuul" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
       <module name="sunyi-cloud-feign" target="1.8" />
       <module name="sunyi-cloud-fiegn" target="1.8" />
       <module name="sunyi-cloud-ribbon" target="1.8" />
+      <module name="sunyi-cloud-user" target="1.8" />
       <module name="sunyi-cloud-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -32,6 +34,7 @@
       <module name="sunyi-cloud-feign" options="-parameters" />
       <module name="sunyi-cloud-fiegn" options="-parameters" />
       <module name="sunyi-cloud-ribbon" options="-parameters" />
+      <module name="sunyi-cloud-user" options="-parameters" />
       <module name="sunyi-cloud-zuul" options="-parameters" />
     </option>
   </component>

@@ -9,6 +9,7 @@
         <groupId>com.sunyi.cloud</groupId>
         <artifactId>sunyi-cloud-dependencies</artifactId>
         <version>1.0.0</version>
+        <relativePath>../sunyi-cloud-dependencies/pom.xml</relativePath>
     </parent>
 
     <dependencies>

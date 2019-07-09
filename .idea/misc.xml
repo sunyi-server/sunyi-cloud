@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/sunyi-cloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/sunyi-cloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/sunyi-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/sunyi-cloud-user/pom.xml" />
       </list>
     </option>
   </component>

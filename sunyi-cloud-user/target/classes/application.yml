@@ -5,7 +5,7 @@ spring:
     username: root
     password: root
   application:
-    name: sunyi-cloud-feign
+    name: sunyi-cloud-user
 
 server:
   port: 8990
@@ -18,3 +18,9 @@ eureka:
 feign:
   hystrix:
     enabled: true
+
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#  type-aliases-package: com.sunyi.cloud
+  mapper-locations: classpath*:/mappers/*.xml

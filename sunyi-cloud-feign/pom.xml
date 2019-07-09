@@ -9,6 +9,7 @@
         <groupId>com.sunyi.cloud</groupId>
         <artifactId>sunyi-cloud-dependencies</artifactId>
         <version>1.0.0</version>
+        <relativePath>../sunyi-cloud-dependencies/pom.xml</relativePath>
     </parent>
 
     <dependencies>
@@ -49,7 +50,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.sunyi.cloud.RibbonApplication</mainClass>
+                    <mainClass>com.sunyi.cloud.FeignApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

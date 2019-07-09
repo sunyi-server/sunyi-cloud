@@ -21,3 +21,6 @@ zuul:
     api-feign:
       path: /api/feign/**
       serviceId: sunyi-cloud-feign
+    api-user:
+      path: /api/user/**
+      serviceId: sunyi-cloud-user
